@@ -1,0 +1,16 @@
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\bin\Debug\net5.0\Footballrandomizer.exe
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\bin\Debug\net5.0\Footballrandomizer.deps.json
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\bin\Debug\net5.0\Footballrandomizer.runtimeconfig.json
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\bin\Debug\net5.0\Footballrandomizer.runtimeconfig.dev.json
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\bin\Debug\net5.0\Footballrandomizer.dll
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\bin\Debug\net5.0\ref\Footballrandomizer.dll
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\bin\Debug\net5.0\Footballrandomizer.pdb
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\Footballrandomizer.csprojAssemblyReference.cache
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\Footballrandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\Footballrandomizer.AssemblyInfoInputs.cache
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\Footballrandomizer.AssemblyInfo.cs
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\Footballrandomizer.csproj.CoreCompileInputs.cache
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\Footballrandomizer.dll
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\ref\Footballrandomizer.dll
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\Footballrandomizer.pdb
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Footballrandomizer\obj\Debug\net5.0\Footballrandomizer.genruntimeconfig.cache
